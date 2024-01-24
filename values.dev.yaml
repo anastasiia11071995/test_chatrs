@@ -1,2 +1,2 @@
 image:
-  tag: "${GITHUB_RUN_NUMBER}"
+  tag: "84"
