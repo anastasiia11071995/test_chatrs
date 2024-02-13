@@ -1,4 +1,4 @@
 image:
-  tag: "_latest"
+  tag: "24"
 ingress:
   enabled: true
