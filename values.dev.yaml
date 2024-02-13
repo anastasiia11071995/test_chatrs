@@ -1,4 +1,4 @@
 image:
-  tag: "27"
+  tag: ""
 ingress:
   enabled: true
