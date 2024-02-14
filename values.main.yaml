@@ -1,2 +1,2 @@
 image:
-  tag: ""
+  tag: "$(git describe --tags --abbrev=0)"
