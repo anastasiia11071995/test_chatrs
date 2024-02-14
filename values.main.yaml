@@ -1,2 +1,2 @@
 image:
-  tag: "$(git describe --tags --abbrev=0)"
+  tag: "v_7901617330"
