@@ -1,4 +1,4 @@
 image:
-  tag: "v_7897961723"
+  tag: "46"
 ingress:
   enabled: true
